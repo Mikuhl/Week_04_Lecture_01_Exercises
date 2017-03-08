@@ -5,7 +5,9 @@ It will make your site faster. After the mod loads then it reaches out to your J
 
  
 Why is using comments important?
-It helps your team and yourself read your code and understand what you are doing. 
+It is always best practice to use. It helps your team and yourself read your code and understand what you are doing.
+ 
+
 
 
 List the 5 primitive types in JavaScript.
